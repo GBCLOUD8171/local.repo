@@ -1,4 +1,10 @@
 h1  {
     color:blue:
 }
-font-size: 20px;
+font-size: 20px;#title {
+
+    color: green;
+
+}  myclass {
+    color: blue;
+}
