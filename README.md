@@ -4,7 +4,8 @@ auther govind
 hellow world
 my script
 my initial command
-full command
-  
+full   access
+thi is wrist me
 
+  
 
