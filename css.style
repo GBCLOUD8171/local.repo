@@ -10,4 +10,6 @@ font-size: 20px;#title {
 } hello
 myclass {
     color: yellow
+}hello {
+    color:red
 }
