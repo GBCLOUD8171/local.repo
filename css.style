@@ -7,4 +7,7 @@ font-size: 20px;#title {
 
 }  myclass {
     color: blue;
+} hello
+myclass {
+    color: yellow
 }
